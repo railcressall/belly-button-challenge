@@ -1,10 +1,6 @@
 # belly-button-challenge
 Module 14 Challenge
 
-This is a dashboard for visualizing belly button biodiversity data using D3.js and Plotly. The dashboard allows users to explore the dataset interactively.
-
-## Features
-
 - **Bar Chart**: Displays the top 10 OTUs found in the selected individual.
 - **Bubble Chart**: Shows each sample with OTU IDs as x-values, sample values as y-values, and marker size and color.
 - **Metadata Panel**: Displays demographic information of the selected individual.
