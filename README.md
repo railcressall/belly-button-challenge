@@ -1,6 +1,8 @@
 # belly-button-challenge
 Module 14 Challenge
 
+- - PLEASE FIND ACTUAL CODE IN THE STATIC FOLDER TITLED "app.js"
+
 - **Bar Chart**: Displays the top 10 OTUs found in the selected individual.
 - **Bubble Chart**: Shows each sample with OTU IDs as x-values, sample values as y-values, and marker size and color.
 - **Metadata Panel**: Displays demographic information of the selected individual.
@@ -13,4 +15,4 @@ Module 14 Challenge
 
 ## Deployment
 
-The app is deployed using GitHub Pages and can be accessed here [here]https://railcressall.github.io/belly-button-challenge/
+The app can be accessed here [here]https://railcressall.github.io/belly-button-challenge/
